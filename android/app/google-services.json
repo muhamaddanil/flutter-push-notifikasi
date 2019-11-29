@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "574466793525",
+    "firebase_url": "https://portal-studio.firebaseio.com",
+    "project_id": "portal-studio",
+    "storage_bucket": "portal-studio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574466793525:android:5e0a75b101553462b3d17c",
+        "android_client_info": {
+          "package_name": "com.example.belajar_notifikasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574466793525-1i13ueqlcaqc1l4fhf7q33iqunl07va0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.belajar_notifikasi",
+            "certificate_hash": "8f49e141d82552b9c9b4bdd89ab0b01d6a648bfc"
+          }
+        },
+        {
+          "client_id": "574466793525-6pcacre52itqhs1b6t8l6j02vqrvge28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0N9SLk4jjAFQWUEFvZhbPN1jr6uU1HRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574466793525-6pcacre52itqhs1b6t8l6j02vqrvge28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
